@@ -1,0 +1,22 @@
+const mongoose = require('mongoose');
+const slug =require('mongoose-slug-generator');
+
+mongoose.plugin(slug);
+
+const Schema = mongoose.Schema;
+
+let Room = new Schema({
+    name: { type: String, maxLength: 255 },
+    price: { type: String, maxLength: 1000},
+    area: { type: String, maxLength: 255},
+    bed: { type: String, maxLength: 255},
+    description1: { type: String},
+    description2: { type: String},
+    slug: { type: String, unique: true}, // vào const Course nhé
+    type: { type: String},
+}, {
+    timestamps: true,
+});
+
+//var RoomsModel = mongoose.model('Rooms', Room);
+module.exports =  mongoose.model('Rooms', Room);
