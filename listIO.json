@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "61a8f1831f0c7928b81875b5"
+  },
+  "sophieucheckIO": "01",
+  "sohoadon": "001",
+  "tinhtranghoadon": "Đang chờ thanh toán ",
+  "ngaytao": "3/12/2021",
+  "sophong": "SP001",
+  "loaiphong": "Standard",
+  "sdt": "0938685923",
+  "ngayvao": "24/12/2021",
+  "ngayra": "31/12/2021",
+  "tongtien": "20.000.000",
+  "updatedAt": {
+    "$date": "2021-12-02T18:49:58.661Z"
+  }
+},{
+  "_id": {
+    "$oid": "61a8f58f1f0c7928b81875b6"
+  },
+  "sophieucheckIO": "01",
+  "sohoadon": "001",
+  "tinhtranghoadon": "Đang chờ thanh toán ",
+  "ngaytao": "3/12/2021",
+  "sophong": "SP001",
+  "loaiphong": "Standard",
+  "tenKH": "Khánh Le",
+  "sdt": "0938685923",
+  "ngayvao": "24/12/2021",
+  "ngayra": "31/12/2021",
+  "tongtien": "20.000.000"
+},{
+  "_id": {
+    "$oid": "61a8fe241f0c7928b81875b7"
+  },
+  "sophieucheckIO": "01",
+  "sohoadon": "001",
+  "tinhtranghoadon": "Đang chờ thanh toán ",
+  "ngaytao": "3/12/2021",
+  "sophong": "SP001",
+  "loaiphong": "Standard",
+  "tenKH": "BUGGGGGGGGGGG",
+  "sdt": "0938685923",
+  "ngayvao": "24/12/2021",
+  "ngayra": "31/12/2021",
+  "tongtien": "20.000.000"
+}]

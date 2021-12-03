@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "61a121c28f6262705464d10e"
+  },
+  "name": "Phòng Standard",
+  "price": "400.000",
+  "area": "30 ft",
+  "people": "2 người",
+  "bed": "King",
+  "extra": "Wifi, Tivi, Nhà tắm, ...",
+  "slug": "standard",
+  "description1": "Nằm từ tầng trệt đến tầng 5, các Phòng Standard của Parallel Shine Hotel \n                                có tầm nhìn tầm trung ra hướng sông Sài Gòn mát mẻ. Được thiết kế theo hai\n                                 khái niệm khác nhau, coi sự thuận tiện và thân thiện của khách hàng là ưu tiên hàng đầu,\n                                  phòng mang đến trải nghiệm lưu trú tốt nhất cho khách của chúng tôi.\n                                Chúng tôi đảm bảo nhiệt độ hoàn hảo trong bốn mùa thông qua hệ thống 4 đường ống\n                                .",
+  "description2": "Ngoài ra, các tiện nghi trong phòng của chúng tôi sẽ làm cho kỳ nghỉ của bạn ở Thành phố Hồ Chí Minh trở nên đặc biệt hơn. Nét tinh tế của Việt Nam được thiết kế bởi các nhà thiết kế nội thất nổi tiếng thế giới HBA và Wilson Associates đáp ứng thị hiếu đa dạng và khác biệt của khách hàng.",
+  "img": "/img/room/room-1.jpg",
+  "type": "standard"
+},{
+  "_id": {
+    "$oid": "61a134118f6262705464d114"
+  },
+  "name": "Phòng Supervior",
+  "price": "700.000",
+  "area": "30 ft",
+  "people": "2 người",
+  "bed": "King",
+  "extra": "Wifi, Tivi, Nhà tắm, ...",
+  "slug": "supervior",
+  "description1": "Nằm từ tầng 6 đến tầng 10, các Phòng Superior của Parallel Shine Hotel có tầm nhìn bao quát tuyệt vời ra toàn cảnh thành phố Hồ Chí Minh Được thiết kế theo hai khái niệm khác nhau, coi sự thuận tiện và thân thiện của khách hàng là ưu tiên hàng đầu, phòng mang đến trải nghiệm lưu trú tốt nhất cho khách của chúng tôi. Chúng tôi đảm bảo nhiệt độ hoàn hảo trong bốn mùa thông qua hệ thống 4 đường ống .",
+  "description2": "Ngoài ra, các tiện nghi trong phòng của chúng tôi sẽ làm cho kỳ nghỉ của bạn ở Thành phố Hồ Chí Minh trở nên đặc biệt hơn. Nét tinh tế của Việt Nam được thiết kế bởi các nhà thiết kế nội thất nổi tiếng thế giới HBA và Wilson Associates đáp ứng thị hiếu đa dạng và khác biệt của khách hàng.",
+  "img": "/img/room/room-2.jpg",
+  "type": "supervior"
+},{
+  "_id": {
+    "$oid": "61a13b898f6262705464d116"
+  },
+  "name": "Phòng Deluxury",
+  "price": "1.000.000",
+  "area": "30 ft",
+  "people": "2 người",
+  "bed": "King",
+  "extra": "Wifi, Tivi, Nhà tắm, ...",
+  "slug": "deluxury",
+  "description1": "Nằm từ tầng 11 đến tầng 15, các Phòng Deluxe của Parallel Shine Hotel có tầm nhìn bao quát tuyệt vời ra toàn cảnh thành phố Hồ Chí Minh Được thiết kế theo hai khái niệm khác nhau, coi sự thuận tiện và thân thiện của khách hàng là ưu tiên hàng đầu, phòng mang đến trải nghiệm lưu trú tốt nhất cho khách của chúng tôi. Chúng tôi đảm bảo nhiệt độ hoàn hảo trong bốn mùa thông qua hệ thống 4 đường ống .",
+  "description2": "Ngoài ra, các tiện nghi trong phòng của chúng tôi sẽ làm cho kỳ nghỉ của bạn ở Thành phố Hồ Chí Minh trở nên đặc biệt hơn. Nét tinh tế của Việt Nam được thiết kế bởi các nhà thiết kế nội thất nổi tiếng thế giới HBA và Wilson Associates đáp ứng thị hiếu đa dạng và khác biệt của khách hàng.",
+  "img": "/img/room/room-3.jpg",
+  "type": "deluxury"
+},{
+  "_id": {
+    "$oid": "61a13bac8f6262705464d117"
+  },
+  "name": "Phòng Suite",
+  "price": "2.000.000",
+  "area": "30 ft",
+  "people": "2 người",
+  "bed": "King",
+  "extra": "Wifi, Tivi, Nhà tắm, ...",
+  "slug": "suite",
+  "description1": "Nằm từ tầng 16 đến tầng 20, các Phòng Suite của Parallel Shine Hotel có tầm nhìn bao quát tuyệt vời ra toàn cảnh thành phố Hồ Chí Minh. Có thể đi đến quầy bar gần hơn so với các loại phòng khác và được thưởng thức miễn phí một lần uống rượu tại quầy. Được thiết kế theo hai khái niệm khác nhau, coi sự thuận tiện và thân thiện của khách hàng là ưu tiên hàng đầu, phòng mang đến trải nghiệm lưu trú tốt nhất cho khách của chúng tôi. Chúng tôi đảm bảo nhiệt độ hoàn hảo trong bốn mùa thông qua hệ thống 4 đường ống .",
+  "description2": "Ngoài ra, các tiện nghi trong phòng của chúng tôi sẽ làm cho kỳ nghỉ của bạn ở Thành phố Hồ Chí Minh trở nên đặc biệt hơn. Nét tinh tế của Việt Nam được thiết kế bởi các nhà thiết kế nội thất nổi tiếng thế giới HBA và Wilson Associates đáp ứng thị hiếu đa dạng và khác biệt của khách hàng.",
+  "img": "/img/room/room-4.jpg",
+  "type": "suite"
+},{
+  "_id": {
+    "$oid": "61a4abc1484b23b4e645a9f3"
+  },
+  "name": "Phòng Standard",
+  "price": "500.000",
+  "area": "30 ft",
+  "people": "5 người",
+  "bed": "King",
+  "extra": "Wifi, Tivi, Nhà tắm, ...",
+  "slug": "standard1",
+  "description1": "Nằm từ tầng trệt đến tầng 5, các Phòng Standard của Parallel Shine Hotel \n                                có tầm nhìn tầm trung ra hướng sông Sài Gòn mát mẻ. Được thiết kế theo hai\n                                 khái niệm khác nhau, coi sự thuận tiện và thân thiện của khách hàng là ưu tiên hàng đầu,\n                                  phòng mang đến trải nghiệm lưu trú tốt nhất cho khách của chúng tôi.\n                                Chúng tôi đảm bảo nhiệt độ hoàn hảo trong bốn mùa thông qua hệ thống 4 đường ống\n                                .",
+  "description2": "Ngoài ra, các tiện nghi trong phòng của chúng tôi sẽ làm cho kỳ nghỉ của bạn ở Thành phố Hồ Chí Minh trở nên đặc biệt hơn. Nét tinh tế của Việt Nam được thiết kế bởi các nhà thiết kế nội thất nổi tiếng thế giới HBA và Wilson Associates đáp ứng thị hiếu đa dạng và khác biệt của khách hàng.",
+  "img": "/img/room/room-1.jpg",
+  "type": "standard"
+},{
+  "_id": {
+    "$oid": "61a62011bd105bf6a5c271b2"
+  },
+  "name": "Phòng Standard",
+  "price": "5.000.000",
+  "area": "30 ft",
+  "people": "5 người",
+  "bed": "King",
+  "extra": "Wifi, Tivi, Nhà tắm, ...",
+  "slug": "standard2",
+  "description1": "Nằm từ tầng trệt đến tầng 5, các Phòng Standard của Parallel Shine Hotel \n                                có tầm nhìn tầm trung ra hướng sông Sài Gòn mát mẻ. Được thiết kế theo hai\n                                 khái niệm khác nhau, coi sự thuận tiện và thân thiện của khách hàng là ưu tiên hàng đầu,\n                                  phòng mang đến trải nghiệm lưu trú tốt nhất cho khách của chúng tôi.\n                                Chúng tôi đảm bảo nhiệt độ hoàn hảo trong bốn mùa thông qua hệ thống 4 đường ống\n                                .",
+  "description2": "Ngoài ra, các tiện nghi trong phòng của chúng tôi sẽ làm cho kỳ nghỉ của bạn ở Thành phố Hồ Chí Minh trở nên đặc biệt hơn. Nét tinh tế của Việt Nam được thiết kế bởi các nhà thiết kế nội thất nổi tiếng thế giới HBA và Wilson Associates đáp ứng thị hiếu đa dạng và khác biệt của khách hàng.",
+  "img": "/img/room/room-1.jpg",
+  "type": "standard"
+}]
